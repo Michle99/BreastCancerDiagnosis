@@ -1,0 +1,6 @@
+https://drive.google.com/drive/folders/1xO9BEl3dQymQWjnzXly-0b3HL0Rb7dop?usp=sharing
+
+---------------------------------------------------------------------------------------------
+The folder datasets in the zip file is the initial arrangement of the datasets. 
+When training the model, it is rearranged into the folder in the base folder as validation, training & testing folders where
+the datasets are placed in and the program training, testing, & validation commences.
